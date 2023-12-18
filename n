@@ -1,0 +1,23 @@
+[33mcommit e92c1149f0ce25685fd258d6b5e11e2743a8a2b1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mangesh Sukhadev Waghmare <ganeshsw2022@gmail.com>
+Date:   Sun Jun 25 14:27:43 2023 +0530
+
+    remove comment
+
+[33mcommit 7f89058b92b8884fb16fdd55ec8c7a3813b41ef2[m
+Author: Mangesh Sukhadev Waghmare <ganeshsw2022@gmail.com>
+Date:   Sun Jun 25 14:18:35 2023 +0530
+
+    creating contact footer and add img-banner
+
+[33mcommit c51e1351439f3a615dcb04b20ccb6e3017030de0[m
+Author: Mangesh Sukhadev Waghmare <ganeshsw2022@gmail.com>
+Date:   Thu Jun 15 00:18:40 2023 +0530
+
+    all files added
+
+[33mcommit 38d57957d5785f8bbb41215c0c8e30ed0c877345[m
+Author: Mangesh Sukhadev Waghmare <ganeshsw2022@gmail.com>
+Date:   Wed Jun 14 23:41:58 2023 +0530
+
+    uploaded all files today
